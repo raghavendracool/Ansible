@@ -37,7 +37,7 @@ Ansible is an **open-source automation tool** used for:
 sudo apt update
 sudo apt install software-properties-common
 sudo add-apt-repository --yes --update ppa:ansible/ansible
-sudo apt install ansibl
+sudo apt install ansible
 
 # CentOS/RHEL
 sudo yum install -y ansible
