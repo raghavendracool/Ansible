@@ -323,5 +323,3 @@ This **Ansible Cheatsheet** provides a **step-by-step guide** from **beginner to
 ✅ **Use roles for better structuring**  
 ✅ **Secure credentials with Ansible Vault**  
 ✅ **Automate cloud infrastructure with Terraform + Ansible**  
-
-🔗 **Contribute to the Cheatsheet Collection:** [GitHub Repo](https://github.com/NotHarshhaa/devops-cheatsheet)  
