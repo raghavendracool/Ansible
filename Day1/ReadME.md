@@ -55,6 +55,9 @@ An **inventory file** (`/etc/ansible/hosts`) tells Ansible where to connect.
 Example:  
 
 ```ini
+ubuntu@IP
+ubuntu@IP
+
 [webservers]
 server1 ansible_host=192.168.1.10 ansible_user=ubuntu
 server2 ansible_host=192.168.1.11 ansible_user=ubuntu
